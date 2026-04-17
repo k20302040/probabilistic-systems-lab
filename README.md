@@ -1,13 +1,13 @@
-# Probabilistic Systems Lab
+## Probabilistic Systems Lab
 
-------
+
 This is a long-term project where I explore how uncertainty and change show up in real-world systems, and how we can detect them using probability and Bayesian ideas.
 
 Real systems aren't stable and instead change over time. I’m interested in how we can detect and understand those changes using math.
-------
 
 
-Why I’m doing this
+
+#Why I’m doing this
 
     A lot of interesting problems don’t have exact answers. Instead, we have to reason with uncertainty.
     
@@ -20,7 +20,7 @@ Why I’m doing this
 
 
 
-What I’m exploring
+#What I’m exploring
 
     Right now, I’m focusing on:
     
@@ -33,9 +33,9 @@ What I’m exploring
 
 
 
- Current stage
+ #Current stage
 
-    Phase 1: Learning the basics (9th grade)
+    01 - Foundations (9th grade)
     
     I’m currently building foundations in:
     - Python programming
@@ -45,12 +45,12 @@ What I’m exploring
 
 
 
-Repository structure
+#Repository structure
 
 
 
 
-Long-term goal
+#Long-term goal
 
     By the end of this project, I want to be able to:
     - Understand and implement Bayesian change detection methods
@@ -60,7 +60,7 @@ Long-term goal
 
 
 
-I’m going to treat this repo like a long-term research journal.
+I’m going to treat this repository like a long-term research journal.
 
 Everything I do and learn will be documented here, including:
 
