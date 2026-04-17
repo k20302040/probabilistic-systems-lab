@@ -7,7 +7,7 @@ Real systems aren't stable and instead change over time. I’m interested in how
 
 
 
-#Why I’m doing this
+Why I’m doing this
 
     A lot of interesting problems don’t have exact answers. Instead, we have to reason with uncertainty.
     
@@ -20,7 +20,7 @@ Real systems aren't stable and instead change over time. I’m interested in how
 
 
 
-#What I’m exploring
+What I’m exploring
 
     Right now, I’m focusing on:
     
@@ -33,7 +33,7 @@ Real systems aren't stable and instead change over time. I’m interested in how
 
 
 
- #Current stage
+ Current stage
 
     01 - Foundations (9th grade)
     
@@ -45,12 +45,12 @@ Real systems aren't stable and instead change over time. I’m interested in how
 
 
 
-#Repository structure
+Repository structure
 
 
 
 
-#Long-term goal
+Long-term goal
 
     By the end of this project, I want to be able to:
     - Understand and implement Bayesian change detection methods
