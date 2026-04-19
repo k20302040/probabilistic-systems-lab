@@ -1,52 +1,58 @@
 # 2026 Learning Journal
 
-This journal tracks my weekly learning progress in Python, probability, and change detection.
+This journal tracks my weekly learning across multiple topics and is also a place where I can reflect on that weeks progress.
+
+
 
 ---
 
-## Week: Feb 16 – Feb 22, 2026
+
+## Week: xxx xx - xxx xx, xxxx
 
 ### Studied
-- Python basics: exceptions, errors, debugging
-- GitHub
+-
 
 ### Did
-- Harvard CS50p Section 3 (lecture)
-- Harvard CS50p Section 3 (shorts)
-- Set up GitHub repository
+-
 
 ### Reflection
-I started to understand how Python handles errors using try/except blocks. Instead of seeing errors as random failures, I now see them as something that can be expected and handled intentionally. Setting up GitHub also made it clearer how code is structured and tracked over time, which makes projects feel more systematic.
 
+ 
 ---
+
 
 ## Week: Feb 23 – Mar 1, 2026
 
 ### Studied
+- Python exceptions, errors, debugging
 - Program structure
 - Input handling
 - String methods
 
 ### Did
-- Harvard CS50p Problem Set 3
+- Harvard's CS50p Section 3
 
 ### Reflection
-This week made me realize that writing good programs is more about structure than just solving problems. Breaking code into functions improved how I think about program flow and made debugging easier. I also started to understand how small syntax tools like .strip() and multiple assignment can simplify logic.
+This week I learned how errors and exceptions aren't just 2 dimensional. They can be used to add an even deeper level of functionality to a program's logic. I also understood the importance of organizing code into functions such as main(). They allow for an easier debugging experience and break the code up into bite-sized segments. The problem set for this section was extremely challenging and each one took me around 1.5 hours.
+
 
 ---
+
 
 ## Week: Mar 2 – Apr 5, 2026
 
 ### Studied
-- (No formal study — travel period)
+- n/a
 
 ### Did
-- No coding activity (out of country)
+- n/a
 
 ### Reflection
-This was a break from structured learning. It helped reset my focus before returning to more advanced topics later.
+This was a break from my learning. I unfortunately wasn't able to bring my computer with me on the trip.
+
 
 ---
+
 
 ## Week: Apr 6 – Apr 12, 2026
 
@@ -55,16 +61,17 @@ This was a break from structured learning. It helped reset my focus before retur
 - Modules and packages
 - APIs
 - Command-line arguments
+- random Module
 
 ### Did
-- Harvard CS50p Section 4 (lecture)
-- Harvard CS50p Section 4 (shorts)
-- Harvard CS50p Problem Set 4
+- Harvard's CS50p Section 4
 
 ### Reflection
-This week shifted my understanding from basic programming to how real software is structured. I started seeing how modules, packages, and external libraries allow programs to scale. The idea of writing reusable and structured code became more important than just solving individual problems.
+This week changed my understanding of how software should be structured. I started seeing how modules, packages, and external libraries allow programs to scale and also help prevent repetitive code. The problem set was a bit easier. It focused less on logic and more on new syntax.
+
 
 ---
+
 
 ## Week: Apr 13 – Apr 19, 2026
 
@@ -74,8 +81,25 @@ This week shifted my understanding from basic programming to how real software i
 - pytest framework
 
 ### Did
-- Practiced writing test cases
-- Explored code structure for testability
+- Harvard's CS50p Section 5
 
 ### Reflection
-I started to understand that good code is designed to be tested. Breaking programs into smaller functions made them easier to reason about and verify. This changed how I think about writing code from the beginning—not just making it work, but making it checkable.
+I understood that good code should be able to be tested thoroughly. Breaking programs into smaller functions that each return values makes it possible to unit test them. 
+
+
+---
+
+
+## Week: xxx xx - xxx xx, xxxx
+
+### Studied
+-
+
+### Did
+-
+
+### Reflection
+
+ 
+ 
+
