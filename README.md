@@ -53,9 +53,9 @@
 
 
 
-I’m going to treat this repository like a long-term research journal.
+#### I’m going to treat this repository like a long-term research journal.
 
-Everything I do and learn will be documented here, including:
+#### Everything I do and learn will be documented here, including:
 
     - Successes
     - Failures
