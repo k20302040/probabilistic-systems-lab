@@ -5,7 +5,7 @@
 
 
 
-Why I’m doing this
+### Why I’m doing this:
 
     A lot of interesting problems don’t have exact answers. Instead, we have to reason with uncertainty.
     
@@ -18,7 +18,7 @@ Why I’m doing this
 
 
 
-Repository structure
+### Repository structure:
 
     journal - Yearly learning logs along with a 4yr roadmap and a document for tracking major milestones.
 
@@ -43,7 +43,7 @@ Repository structure
     
 
 
-Long-term goal
+### Long-term goal:
 
     By the end of this project, I want to be able to:
     - Understand and implement Bayesian change detection methods
