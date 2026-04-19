@@ -1,9 +1,7 @@
-## Probabilistic Systems Lab
+# Probabilistic Systems Lab
 
 
-This is a long-term project where I explore how uncertainty and change show up in real-world systems, and how we can detect them using probability and Bayesian ideas.
-
-Real systems aren't stable and instead change over time. I’m interested in how we can detect and understand those changes using math.
+## This is a long-term project where I explore how uncertainty and change show up in real-world systems, and how we can detect them using probability and Bayesian ideas.
 
 
 
@@ -38,7 +36,7 @@ Repository structure
 
     visualizations - Contains plots and visual tools used to better understand data, simulations, and model behavior.
 
-    datasets - Stores the datasets used in simulations, models, and change detection experiments. Ensures consistent,      reusable data sources.
+    datasets - Stores the datasets used in simulations, models, and change detection experiments. Ensures consistent, reusable data sources.
     
     tools - Reusable helper code used across the repository. Keeps the main code clean and focused.
     
