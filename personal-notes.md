@@ -24,3 +24,7 @@ idea → foundations → change detection → models → research → project
 → projects
 
 
+Number of hashes decides text size in .md files.
+#kjdfbv.kjcxbv.m≈ç∫˜v  ==  Big title
+##jkhkdjfhgkdjzfhglkj  ==  Medium header
+###l;ihjkd;lfkgjdlzkf  ==  Small header
