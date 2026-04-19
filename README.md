@@ -23,14 +23,23 @@ Why I’m doing this
 Repository structure
 
     journal - Yearly learning logs along with a 4yr roadmap and a document for tracking major milestones.
+
     writeups - Explanations of concepts I've learned or things I've figured out.
+
     foundations - Contains the core skills I am building in Python and probability.
+
     change-detection - My work on understanding how and when systems change over time.
+
     probablistic-models - How I built and studied probabilistic models to understand data and uncertainty.
-    research - Where I compare, analyze, and improve my models. The goal is to move beyond building individual models and start                             understanding them in relation to each other.
+
+    research - Where I compare, analyze, and improve my models.
+
     projects - This folder contains my completed and polished work. These are the results of everything I've learned.
+
     visualizations - Contains plots and visual tools used to better understand data, simulations, and model behavior.
-    datasets - Stores the datasets used in simulations, models, and change detection experiments. Ensures consistent, reusable data sources.
+
+    datasets - Stores the datasets used in simulations, models, and change detection experiments. Ensures consistent,      reusable data sources.
+    
     tools - Reusable helper code used across the repository. Keeps the main code clean and focused.
     
     
