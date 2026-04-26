@@ -67,7 +67,7 @@ This was a break from my learning. I unfortunately wasn't able to bring my compu
 - Harvard's CS50p Section 4
 
 ### Reflection
-This week changed my understanding of how software should be structured. I started seeing how modules, packages, and external libraries allow programs to scale and also help prevent repetitive code. The problem set was a bit easier. It focused less on logic and more on new syntax.
+This week changed my understanding of how code should be structured. I started seeing how modules, packages, and external libraries allow programs to scale and also help prevent repetitive code. I also saw how APIs can be used to access data on the internet and how command-line arguements allow for getting user input in a more efficient way. The problem set was a bit easier. It focused less on logic and more on new syntax.
 
 
 ---
@@ -90,7 +90,7 @@ I understood that good code should be able to be tested thoroughly. Breaking pro
 ---
 
 
-## Week: xxx xx - xxx xx, xxxx
+## Week: Apr 20 - Apr 26, 2026
 
 ### Studied
 -
@@ -99,6 +99,9 @@ I understood that good code should be able to be tested thoroughly. Breaking pro
 -
 
 ### Reflection
+
+ 
+---
 
  
  
