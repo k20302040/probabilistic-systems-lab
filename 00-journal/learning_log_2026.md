@@ -17,6 +17,7 @@ This journal tracks my weekly learning across multiple topics and is also a plac
 
 ### Reflection
 
+
  
 ---
 
@@ -67,7 +68,7 @@ This was a break from my learning. I unfortunately wasn't able to bring my compu
 - Harvard's CS50p Section 4
 
 ### Reflection
-This week changed my understanding of how code should be structured. I started seeing how modules, packages, and external libraries allow programs to scale and also help prevent repetitive code. I also saw how APIs can be used to access data on the internet and how command-line arguements allow for getting user input in a more efficient way. The problem set was a bit easier. It focused less on logic and more on new syntax.
+This week I learned how code should be structured. I started seeing how modules, packages, and external libraries allow programs to grow and also help prevent repetitive code. I also saw how APIs can be used to access data on the internet and how command-line arguements allow for getting user input in a more efficient way. The problem set was a bit easier. It focused less on logic and more on new syntax.
 
 
 ---
@@ -93,15 +94,34 @@ I understood that good code should be able to be tested thoroughly. Breaking pro
 ## Week: Apr 20 - Apr 26, 2026
 
 ### Studied
--
+- File I/O
+- .csv & .txt
+- lambda functions
 
 ### Did
--
+- Harvard's CS50p Section 6
 
 ### Reflection
+This week I learned about File I/O and why it's important. It lets you create, modify, and read files with data directly in your script. This will be a very usefull skill when I start working with datasets in my programs. I've only learned reading and writing to .txt and .csv files for now but I'm sure there's dozens of other types of files you can use to store data of all kinds. Another thing I learned was using lambda functions. Sometimes you need a smaller helper function to pass to a larger, more complex function. It's a waste to create a whole new function for these scenarios considering they will only be used once. The course also went over the pillow library but it didn't make much sense to me and I don't think it will be that important for what I want to do.
 
  
 ---
+
+
+## Week: Apr 27 - May 3, 2026
+
+### Studied
+- 
+
+### Did
+- 
+
+### Reflection
+
+
+ 
+---
+
 
  
  
