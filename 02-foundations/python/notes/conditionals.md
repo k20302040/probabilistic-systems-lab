@@ -1,10 +1,10 @@
 ## With conditionals, your programs can automatically make desicions based on the information they've been given. 
-- > - greater than
-- < - less than
-- >= - greater than or equal to
-- <= - less than or equal to
-- == - equals (checks for equality)
-- != - does not equal (checks for inequality)
+    > - greater than
+    < - less than
+    >= - greater than or equal to
+    <= - less than or equal to
+    == - equals (checks for equality)
+    != - does not equal (checks for inequality)
 
 ### Example:
 if x < y:
