@@ -1,4 +1,4 @@
-With conditionals, your programs can automatically make desicions based on the information they've been given. 
+## With conditionals, your programs can automatically make desicions based on the information they've been given. 
 > - greater than
 < - less than
 >= - greater than or equal to
@@ -6,7 +6,7 @@ With conditionals, your programs can automatically make desicions based on the i
 == - equals (checks for equality)
 != - does not equal (checks for inequality)
 
-
+### Example:
 if x < y:
     print("x is less than y")
 elif x > y:
@@ -14,4 +14,4 @@ elif x > y:
 else:
     print("x is equal to y")
 
-Use "or" and "and" for more complex conditionals.
+### Use "or" and "and" for more complex conditionals.
