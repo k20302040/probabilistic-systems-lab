@@ -1,11 +1,11 @@
 ## An alternative to input(). Lets you get user input directly from the command line.
-#Example:
+## Example:
 
-## CODE
+### CODE
 import sys
 print(f"Hello, {sys.argv[1]}")
 
-## TERMINAL
+### TERMINAL
 > python hello.py John
 > Hello John
 
