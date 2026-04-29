@@ -2,12 +2,12 @@
 ## Example:
 
 ### CODE
-import sys
-print(f"Hello, {sys.argv[1]}")
+    import sys
+    print(f"Hello, {sys.argv[1]}")
 
 ### TERMINAL
-> python hello.py John
-> Hello John
+    > python hello.py John
+    > Hello John
 
 
 ## First import "sys". This gives you access to command-line arguments. The arguements are 0-indexed, starting with the file name. You can then access the arguments with ".argv([index])". 
