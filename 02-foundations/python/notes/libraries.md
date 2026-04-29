@@ -2,9 +2,9 @@
 An example would be the "random" module.
 
 ------------------
-#### tells python you want to use this library
-import random
+### tells python you want to use this library
+    import random
 
-#### random.choice() accesses a specific function inside of random. 
-coin = random.choice(["heads", "tails"])
-print(coin)
+### random.choice() accesses a specific function inside of random. 
+    coin = random.choice(["heads", "tails"])
+    print(coin)
